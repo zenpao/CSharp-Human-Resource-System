@@ -2,7 +2,7 @@
 
 A Windows Forms desktop app (C#) for managing employee personnel records — personal data sheets, education, and work experience — backed by a local Microsoft Access database, with login-based access.
 
-**The repo instead bundles the runtime installers needed to build/run the app, plus a `run-HRMS.bat` launcher for the Debug build.**
+**The repo bundles the runtime installers needed to build/run the app, plus a `run-HRMS.bat` launcher for the Debug build.**
 
 ## Description
 
