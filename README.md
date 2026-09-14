@@ -6,7 +6,7 @@ A Windows Forms desktop app (C#) for managing employee personnel records — per
 
 ## Description
 
-HRMS lets a logged-in user manage a table of personnel: add new entries, view/update each person's Personal Data Sheet (PDS), Education history, and Work Experience, delete entries, and search/refresh the personnel list. Quick-access menu items open the folders used for PDS/resume, SALN, and payroll files in Windows Explorer. Payroll and Leave Credits features are present in the menu but currently show "Feature available soon."
+HRMS lets a logged-in user manage a table of personnel: add new entries, view/update each person's Personal Data Sheet (PDS), Education history, and Work Experience, delete entries, and search/refresh the personnel list. Quick-access menu items open the folders used for PDS/resume, SALN, and payroll files in Windows Explorer. Payroll and Leave Credits features are **unavailable/not developed**.
 
 ## Features
 
@@ -127,4 +127,4 @@ CSharp-Human-Resource-System/
 
 ## License
 
-Not specified.
+Apache License 2.0
